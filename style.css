@@ -1,0 +1,25 @@
+
+body{
+    background: blueviolet;
+}
+   
+h1{
+    background-color: aqua;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-left: 2%;
+    text-align: center;
+    margin:0%;
+}
+p{
+    background-color:aqua;
+    font-family:'Courier New', Courier, monospace
+    padding-left: 2%;
+    text-align: center;
+    color:white;
+    margin:0%;
+}
+table{
+    background-color:red;
+    font-family:Arial;
+    color:yellow;
+}
